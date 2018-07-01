@@ -1,0 +1,7 @@
+name = "TestPackage"
+uuid = "28cd688e-7cf2-11e8-01a0-0dc1d6450aeb"
+authors = ["Luke Adams <adamslc@whitman.edu>"]
+version = "0.1.0"
+
+[deps]
+Example = "7876af07-990d-54b4-ab0e-23690620f79a"
